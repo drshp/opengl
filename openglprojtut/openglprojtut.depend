@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588870242 source:/home/dr/opengl project/opengl/openglprojtut/main.cpp
+	<iostream>
+	<GL/glew.h>
+
